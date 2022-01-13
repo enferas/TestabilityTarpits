@@ -17,4 +17,4 @@ Concerning the Static-Dynamic features, we have:
 - 4 Dynamic D3
 - 14 Dynamic D4
 
-[Testability_Patterns.pdf](https://github.com/GiuliCler/testability_tarpits/blob/main/PHP/Testability_Patterns/Testability_Patterns.pdf) sums up all the patterns created.
+[Testability_Patterns.pdf](https://github.com/enferas/TestabilityTarpits/blob/main/PHP/Testability_Patterns/Testability_Patterns.pdf) sums up all the patterns created.

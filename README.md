@@ -18,3 +18,6 @@ The repository of our work is organized in the following way:
 - [**Docs**]
   - [**ADD New Tarpit**](https://github.com/enferas/TestabilityTarpits/tree/main/Docs/AddingPatternProcess.md)
 
+- [**CVEs**]
+  - [**Published CVEs**](https://github.com/enferas/TestabilityTarpits/tree/main/CVEs/PublishedCVEs.md)
+

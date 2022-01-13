@@ -66,7 +66,7 @@ Measurements Date: 8 June 2021
 
 $_main: ; (lines=24, args=0, vars=3, tmps=15)
     ; (before optimizer)
-    ; /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/75_object_in_object.php:1-10
+    ; /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/75_object_in_object.php:1-10
 L0 (3):     INCLUDE_OR_EVAL (include) string("class1.php")
 L1 (4):     INCLUDE_OR_EVAL (include) string("class2.php")
 L2 (5):     V5 = NEW 0 string("classB")
@@ -97,12 +97,12 @@ LIVE RANGES:
 
 $_main: ; (lines=1, args=0, vars=0, tmps=0)
     ; (before optimizer)
-    ; /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class1.php:1-11
+    ; /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class1.php:1-11
 L0 (11):    RETURN int(1)
 
 classA::set: ; (lines=4, args=1, vars=1, tmps=1)
     ; (before optimizer)
-    ; /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class1.php:5-7
+    ; /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class1.php:5-7
 L0 (5):     CV0($d) = RECV 1
 L1 (6):     ASSIGN_OBJ THIS string("data")
 L2 (6):     OP_DATA CV0($d)
@@ -110,19 +110,19 @@ L3 (7):     RETURN null
 
 classA::get: ; (lines=3, args=0, vars=0, tmps=1)
     ; (before optimizer)
-    ; /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class1.php:8-10
+    ; /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class1.php:8-10
 L0 (9):     T0 = FETCH_OBJ_R THIS string("data")
 L1 (9):     RETURN T0
 L2 (10):    RETURN null
 
 $_main: ; (lines=1, args=0, vars=0, tmps=0)
     ; (before optimizer)
-    ; /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class2.php:1-11
+    ; /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class2.php:1-11
 L0 (11):    RETURN int(1)
 
 classB::set: ; (lines=4, args=1, vars=1, tmps=1)
     ; (before optimizer)
-    ; /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class2.php:5-7
+    ; /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class2.php:5-7
 L0 (5):     CV0($d) = RECV 1
 L1 (6):     ASSIGN_OBJ THIS string("data")
 L2 (6):     OP_DATA CV0($d)
@@ -130,11 +130,11 @@ L3 (7):     RETURN null
 
 classB::get: ; (lines=3, args=0, vars=0, tmps=1)
     ; (before optimizer)
-    ; /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class2.php:8-10
+    ; /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/class2.php:8-10
 L0 (9):     T0 = FETCH_OBJ_R THIS string("data")
 L1 (9):     RETURN T0
 L2 (10):    RETURN null
-PHP Notice:  Undefined index: p1 in /home/giulia/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/75_object_in_object.php on line 6
+PHP Notice:  Undefined index: p1 in /home/user/Documents/GitHub/static-tools---latex/paper_code/PHP/Testability_Patterns/75_object_in_object/75_object_in_object.php on line 6
 ```
 
 - DISCOVERY:

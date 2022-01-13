@@ -23,6 +23,6 @@ Some [JavaScript Official Guide](https://developer.mozilla.org/en-US/docs/Web/Ja
 
 - DataView, Atomics, BigInt, BigInt64Array, BigUint64Array, Float32Array, Float64Array, Int16Array, Int32Array, Int8Array, Intl, Infinity, ParseFloat, ParseInt, TypedArray, Uint32Array, Uint16Array, Uin8Array, Uint8ClampedArray, FinalizationRegistry: since not usable as a string source for XSS vulnerability (the one used for our pattern library definition).
 
-[Testability_Patterns.pdf](https://github.com/GiuliCler/testability_tarpits/blob/main/JS/Testability_Patterns/Testability_Patterns.pdf) sums up all the patterns created.
+[Testability_Patterns.pdf](https://github.com/enferas/TestabilityTarpits/blob/main/JS/Testability_Patterns/Testability_Patterns.pdf) sums up all the patterns created.
 
 NOTE: the table reports 101 patterns due to a typo in submitted paper for NDSS.
