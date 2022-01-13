@@ -1,0 +1,39 @@
+﻿Projects,Vuls,Before,After,Dif,New Vul
+Project_1,Command I,11,13,2,2
+Project_2,Code I,0,1,1,1
+Project_3,XSS,53,59,6,0
+Project_4,XSS,21,24,3,3
+Project_5,XSS,1,7,6,6
+Project_6,XSS,0,4,4,4
+Project_7,XSS,2,7,5,5
+Project_8,XSS,46,56,10,10
+Project_9,XSS,90,91,1,1
+Project_9,File I,2,3,1,1
+Project_10,XSS,50,229,179,1
+Project_10,Path M,16,32,16,0
+Project_10,File I,8,16,8,0
+Project_10,Code I,0,4,4,0
+Project_11,Path M,6,17,11,2
+Project_12,XSS,349,350,1,0
+Project_13,Path M,17,18,1,1
+Project_13,XSS,9,10,1,0
+Project_13,File I,4,5,1,1
+Project_14,XSS,46,72,26,0
+Project_15,XSS,350,357,7,7
+Project_16,XSS,240,251,11,0
+Project_17,XSS,45,48,3,3
+Project_18,File I,0,6,6,6
+Project_19,XSS,1448,1508,60,0
+Project_19,Path M,331,332,1,1
+Project_19,File I,4,5,1,0
+Project_20,XSS,2350,2354,4,0
+Project_21,XSS,4512,4963,451,0
+Project_21,Path M,263,265,2,0
+Project_21,Command I,238,241,3,0
+Project_22,XSS,773,847,74,0
+Project_23,XSS,1342,1504,162,0
+Project_23,SQLI,103,194,91,0
+Project_23,File I,14,21,7,0
+Project_24,XSS,845,965,120,0
+Project_24,File I,15,22,7,0
+,,,,1297,55
