@@ -1,7 +1,7 @@
 # Discovery rules for patterns - CPG Queries
 
 Every pattern instances in [Testability_Patterns](https://github.com/enferas/TestabilityTarpits/tree/main/PHP/TestabilityPatterns) folder, defines its discovery rule in scala language. 
-All the discovery rules are reported in [queries.sc](https://github.com/enferas/TestabilityTarpits/blob/main/PHP/queries/quries.sc) for simplicity, grouped depending on their type (Variables, Objects, Functions, etc.). 
+All the discovery rules are reported in [queries.sc](https://github.com/enferas/TestabilityTarpits/tree/main/PHP/Queries/queries.sc) for simplicity, grouped depending on their type (Variables, Objects, Functions, etc.). 
 
 ### Examples:
 
